@@ -1,0 +1,100 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Mogadishu",
+      "country": "Somalia",
+      "emoji": "🇸🇴",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 2.03711,
+        "lng": 45.34375
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Galkio",
+      "country": "Somalia",
+      "emoji": "🇸🇴",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 6.787273,
+        "lng": 47.439236
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Mediterranean Sea",
+      "country": "DZ",
+      "emoji": "🇩🇿",
+      "date": "2023-10-23T09:46:29.367Z",
+      "notes": "not bad as i expected",
+      "position": {
+        "lat": "36.86204269508728",
+        "lng": "3.5815429687500004"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Gaalkacyo",
+      "country": "SO",
+      "emoji": "🇸🇴",
+      "date": "2023-10-24T16:36:09.075Z",
+      "notes": "",
+      "position": {
+        "lat": "7.176629984608488",
+        "lng": "47.518285721758645"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Gebiley",
+      "country": "SO",
+      "emoji": "🇸🇴",
+      "date": "2023-10-24T16:36:48.189Z",
+      "notes": "Abdirash'ds Home",
+      "position": {
+        "lat": "9.706043976072179",
+        "lng": "43.62451337701532"
+      },
+      "id": 98443200
+    }
+  ]
+}
